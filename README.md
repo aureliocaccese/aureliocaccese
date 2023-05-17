@@ -1,5 +1,5 @@
 # 🧑🏼‍💻About Me:
-Studente di Data Science & Artificial Intelligence presso l'Universitá LUMSA<br>
+Student in Data Science & Artificial Intelligence at LUMSA University<br>
 
 
 ## 🌐 Socials:
